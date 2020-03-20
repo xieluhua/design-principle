@@ -1,4 +1,4 @@
-package com.iamfy.design.principle.dependencyinversion;
+package com.iamfy.design.principle.dependenceinversion;
 
 public class DipTest {
     public static void main(String[] args) {

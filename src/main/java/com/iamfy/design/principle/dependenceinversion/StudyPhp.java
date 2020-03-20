@@ -1,4 +1,4 @@
-package com.iamfy.design.principle.dependencyinversion;
+package com.iamfy.design.principle.dependenceinversion;
 
 public class StudyPhp implements ICourse {
     public void study() {
